@@ -1,0 +1,26 @@
+{
+  "KosCare": {
+    "laporan": {
+      "Bela": {
+        "4": "\"Diproses\""
+      },
+      "Laura Fatimah": {
+        "4": "\"Selesai\""
+      },
+      "Rara": "[\"Rara\",\"03\",\"Lampu mati\",\"sudah 2 haru\",\"Menunggu\"]",
+      "Zahwa": {
+        "4": "\"Selesai\""
+      },
+      "shayla": "[\"shayla\",\"01\",\"Pintu rusak\",\"pintu jebol\",\"Menunggu\"]"
+    },
+    "users": {
+      "Admin": "[\"Admin KosCare\",\"Admin\",\"00000\",\"30\"]",
+      "Lalat": "[\"Latisya Ramadhani\",\"Lalat\",\"143708\",\"2\"]",
+      "Laura": "[\"Laura Siburian\",\"Laura\",\"22222\",\"07\"]",
+      "Nia Pia": "[\"Nia\",\"Nia Pia\",\"031181\",\"010\"]",
+      "Rara": "[\"Raray Indriyani\",\"Rara\",\"11111\",\"03\"]",
+      "Salsa": "[\"Salsabila \",\"Salsa\",\"260109\",\"11\"]",
+      "Shaylalau": "[\"Laura Fatimah\",\"Shaylalau\",\"12345\",\"1\"]"
+    }
+  }
+}
